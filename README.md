@@ -2,6 +2,4 @@ Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisatio
 
 The client provided KPMG with 3 datasets:
 
-Customer Demographic
-Customer Addresses
-Transactions data
+Customer Demographic, Customer Addresses, Transactions data
